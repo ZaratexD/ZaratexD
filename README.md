@@ -1,4 +1,7 @@
 ### Hi there 👋
+# Angel Zarate
+
+**UW Applied & Computational Mathematical Sciences: Data Science & Statistics
 
 <!--
 **ZaratexD/ZaratexD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
