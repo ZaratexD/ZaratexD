@@ -1,4 +1,3 @@
-### Hi there 👋
 # Angel Zarate
 
 **UW Applied & Computational Mathematical Sciences: Data Science & Statistics**
