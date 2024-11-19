@@ -5,6 +5,9 @@
 I am a Junior studying ACMS: Data Science at the University of Washington Seattle. I enjoy using programming as a tool
 to help me achieve my goals, express my creativity, and push the boundaries of cutting-edge technology like AI/ML.
 
+Currently:
+Working at U.W. Dermatology Finance Department where I get hands on experience developing Dashboards, optimizing data pipelines, and communicating needs from Financial Analyst to iteratively make Financial reporting more streamlined.
+
 I have taken a special interest in ML working on the DeepTracer[https://deeptracer.uw.edu/home] program with Data Analysis & Intelligent Systems (DAIS) @ UW.
 Here we aim to bring Machine Learning techniques to predict protein structures pushing innovation in applied technology to 
 life science.
